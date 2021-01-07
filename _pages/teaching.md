@@ -12,4 +12,4 @@ title: Teaching
 * Derek Heek, MSc Data Science, University of Amsterdam, MSc thesis.
 
 
-For supervision requests, feel free to reach out.
+For supervision requests, feel free to reach out. [reach out](mailto:m.hendriksen@uva.nl?subject=[Hello!])
